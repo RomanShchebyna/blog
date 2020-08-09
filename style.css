@@ -302,7 +302,7 @@ width: 58%;
 }
 
 /* 320 */
-@media (min-width:320px){
+@media (min-width:250px){
 
     .conteiner{
        width: 100%;
